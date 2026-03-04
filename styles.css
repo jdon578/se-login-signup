@@ -1,6 +1,6 @@
 body {
     font-family: "Verdana";
-    font-size: 18px;
+    font-size: 17px;
 }
 
 center {
@@ -10,5 +10,5 @@ center {
 }
 
 input[type = submit] {
-    font-size: 18px;
+    font-size: 17px;
 }
