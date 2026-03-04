@@ -1,0 +1,14 @@
+body {
+    font-family: "Verdana";
+    font-size: 18px;
+}
+
+center {
+    margin: 250px;
+    justify-content: center;
+    align-items: center;
+}
+
+input[type = submit] {
+    font-size: 18px;
+}
